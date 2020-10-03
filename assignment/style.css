@@ -26,3 +26,6 @@ img {
 ul {
   font: san-serif;
 }
+link {
+  display: none;
+}
